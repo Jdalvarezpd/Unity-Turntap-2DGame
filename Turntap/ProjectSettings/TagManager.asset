@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - slice
+  - p1
+  - p2
+  - scoretext
+  - scoretextfinal
+  - highscoretext
+  - rowpoint
+  - background
+  - comments
+  - scorebar
+  - l1
+  - l2
+  - l3
+  - l4
+  - l5
+  - l6
+  - l7
+  - l8
+  - l9
+  - l10
+  - star
+  - play
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
